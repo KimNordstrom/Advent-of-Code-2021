@@ -14,3 +14,19 @@ C:\Users\K_Nor\source\repos\Advent of Code 2021\Advent of Code 2021\obj\Debug\ne
 C:\Users\K_Nor\source\repos\Advent of Code 2021\Advent of Code 2021\obj\Debug\net5.0\ref\Advent of Code 2021.dll
 C:\Users\K_Nor\source\repos\Advent of Code 2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.pdb
 C:\Users\K_Nor\source\repos\Advent of Code 2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.genruntimeconfig.cache
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\Advent of Code 2021.exe
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\Advent of Code 2021.deps.json
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\Advent of Code 2021.runtimeconfig.json
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\Advent of Code 2021.runtimeconfig.dev.json
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\Advent of Code 2021.dll
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\ref\Advent of Code 2021.dll
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\bin\Debug\net5.0\Advent of Code 2021.pdb
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.AssemblyInfo.cs
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.dll
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\ref\Advent of Code 2021.dll
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.pdb
+C:\Users\K_Nor\Source\Repos\Advent-of-Code-2021\Advent of Code 2021\obj\Debug\net5.0\Advent of Code 2021.genruntimeconfig.cache
