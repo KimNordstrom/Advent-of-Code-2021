@@ -11,7 +11,7 @@ namespace Advent_of_Code_2021.Day_1
     {
         public void Scan()
         {
-            var path = @"C:\Users\K_Nor\source\repos\Advent of Code 2021\Advent of Code 2021\Day 1\Scans.txt";
+            var path = @"C:\Users\K_Nor\source\repos\Advent-of-Code-2021\Advent of Code 2021\Day 1\Scans.txt";
             List<int> scans = new List<int>();
             FileStream fs = File.OpenRead(path);
             using (StreamReader sr = new StreamReader(fs))
