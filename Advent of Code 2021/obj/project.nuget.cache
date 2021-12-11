@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "A3Y7XG9R6tE7PPVivRLKoB3eoVxFTtTEA30Ue+nNxxLuy0/+twmsQHJY5B9LRQvST6rpqXYQzUCkIl469KWAeg==",
+  "dgSpecHash": "43OHrX2xBJ01m1byqHbHAoC95Gopktnm7EWKurzSx6NNIDHJLD77ObysA5rI+X1lo/kkihmqODgOfIdXePNNsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\K_Nor\\Source\\Repos\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\K_Nor\\Documents\\GitHub\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

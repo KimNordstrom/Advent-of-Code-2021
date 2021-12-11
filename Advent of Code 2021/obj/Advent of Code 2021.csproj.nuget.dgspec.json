@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\K_Nor\\Source\\Repos\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj": {}
+    "C:\\Users\\K_Nor\\Documents\\GitHub\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\K_Nor\\Source\\Repos\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj": {
+    "C:\\Users\\K_Nor\\Documents\\GitHub\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\K_Nor\\Source\\Repos\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj",
+        "projectUniqueName": "C:\\Users\\K_Nor\\Documents\\GitHub\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj",
         "projectName": "Advent of Code 2021",
-        "projectPath": "C:\\Users\\K_Nor\\Source\\Repos\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj",
+        "projectPath": "C:\\Users\\K_Nor\\Documents\\GitHub\\Advent-of-Code-2021\\Advent of Code 2021\\Advent of Code 2021.csproj",
         "packagesPath": "C:\\Users\\K_Nor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\K_Nor\\Source\\Repos\\Advent-of-Code-2021\\Advent of Code 2021\\obj\\",
+        "outputPath": "C:\\Users\\K_Nor\\Documents\\GitHub\\Advent-of-Code-2021\\Advent of Code 2021\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\K_Nor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -39,6 +42,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
