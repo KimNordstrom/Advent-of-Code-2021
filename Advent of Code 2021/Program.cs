@@ -15,5 +15,6 @@ using Advent_of_Code_2021.Day_3;
 //Day 3
 Rates rates = new Rates();
 rates.ReadFile();
-rates.SortMostLeast();
-rates.CalculateRates();
+rates.CountMostLeast();
+rates.DynamicMostLeast();
+rates.PrintResults();
